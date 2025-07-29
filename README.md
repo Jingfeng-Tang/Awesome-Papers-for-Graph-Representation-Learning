@@ -2,6 +2,7 @@
 
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
+| [Do Transformers Really Perform Bad for Graph Representation](https://arxiv.org/pdf/2106.05234) | Graphormer | NeurIPS 2021 | [code](https://github.com/Microsoft/Graphormer) | -- |
 | [GBT Geometric-oriented Brain Transformer for Autism Diagnosis](https://papers.miccai.org/miccai-2024/paper/2778_paper.pdf) | GBT | MICAAI 2024 | [code](https://github.com/CUHK-AIM-Group/GBT) | transformer rank 主成分 |
 | [BRAIN NETWORK TRANSFORMER](https://arxiv.org/pdf/2210.06681) | BNT | NeurIPS 2022 | [code](https://github.com/Wayfear/BrainNetworkTransformer) | transformer concat_readout |
 | [Graph Contrastive Learning with Augmentations](https://arxiv.org/pdf/2010.13902) | GCL | NeurIPS 2020 | [code](https://github.com/Shen-Lab/GraphCL) | 图对比学习，数据增强（子图best） |
