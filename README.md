@@ -2,7 +2,7 @@
 
 | Title | Abbreviation | Venue | Code | aaa |
 |-----|-----|-----|-----|-----|
-| [Knowledge-Aware Multisite Adaptive Graph Transformer for Brain Disorder Diagnosis](https://ieeexplore.ieee.org/document/10663452) | -- | TMI 2025 | -- | graph token |
+| [Knowledge-Aware Multisite Adaptive Graph Transformer for Brain Disorder Diagnosis](https://ieeexplore.ieee.org/document/10663452) | -- | TMI 2025 | -- | no-image feature |
 | [Community-Aware Transformer for Autism Prediction in fMRI Connectome](https://arxiv.org/pdf/2307.10181) | Com-BrainTF | MICAAI 2023 | [code](https://github.com/ubc-tea/Com-BrainTF) | graph token |
 | [Do Transformers Really Perform Bad for Graph Representation](https://arxiv.org/pdf/2106.05234) | Graphormer | NeurIPS 2021 | [code](https://github.com/Microsoft/Graphormer) | -- |
 | [GBT Geometric-oriented Brain Transformer for Autism Diagnosis](https://papers.miccai.org/miccai-2024/paper/2778_paper.pdf) | GBT | MICAAI 2024 | [code](https://github.com/CUHK-AIM-Group/GBT) | transformer rank 主成分 |
